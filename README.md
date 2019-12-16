@@ -1,6 +1,6 @@
 # API Project: URL Shortener Microservice
 
-A MERN full-stack JavaScript web development project. I wrote a blog post about the project, where you can read about programming concepts I used and about app's features and functionality. You can find it on my [medium profile](https://medium.com/@marko.libor/url-shortener-microservice-e841b364155c).
+A full-stack JavaScript web development project. I wrote a blog post about the project, where you can read about programming concepts I used and about app's features and functionality. You can find it on my [medium profile](https://medium.com/@marko.libor/url-shortener-microservice-e841b364155c).
 
 ## Technologies used
 * Node.JS
